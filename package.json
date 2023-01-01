@@ -30,7 +30,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@sveltejs/adapter-auto": "^1.0.0",
+    "@sveltejs/adapter-vercel": "^1.0.0",
     "dropzone": "6.0.0-beta.2",
     "firebase": "^9.15.0",
     "katex": "^0.16.4",
